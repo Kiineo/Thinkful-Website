@@ -73,6 +73,10 @@ p {
   margin: auto auto auto;
 }
 /* this is the settings for paragraphs*/
+
+a:link { color: red; } a:visited { color: green; } a:link:hover { color: blue; } a:visited:hover { color: yellow; }
+/* These are link Pseudo-classes*/
+
 footer {
   font-family: "sans-serif";
   font-size: 22px;
