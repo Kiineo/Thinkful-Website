@@ -1,6 +1,7 @@
 body {
   background-color: #565c76;
 }
+/* this is the base background*/
 
 .Picture-of-myself {
   display: block;
@@ -8,6 +9,7 @@ body {
   margin-right: auto;
   width: 25%;
 }
+/* this is the image*/
 h1 {
   font-family: "Times New Roman";
   font-size: 44px;
@@ -18,6 +20,7 @@ h1 {
   padding: 20px;
   background-color: #8b3f3f;
 }
+/* this is the title h1*/
 
 h2 {
   font-family: "Times New Roman";
@@ -28,6 +31,7 @@ h2 {
   margin: auto auto auto;
   padding: 20px;
 }
+/* this is the title h2*/
 h3 {
   font-family: "Times New Roman";
   text-align: center;
@@ -37,6 +41,7 @@ h3 {
   margin: auto auto auto;
   padding: 20px;
 }
+/* this is the title h3*/
 
 hr {
   height: 2px;
@@ -44,6 +49,7 @@ hr {
   color: gray;
   background-color: gray;
 }
+/* this is the lines in between sections*/
 
 ul,
 ol,
@@ -56,6 +62,7 @@ li {
 
   margin: auto auto auto;
 }
+/* these are settings for list elements*/
 p {
   font-family: "sans-serif";
   font-size: 22px;
@@ -65,6 +72,7 @@ p {
   padding: 15px;
   margin: auto auto auto;
 }
+/* this is the settings for paragraphs*/
 footer {
   font-family: "sans-serif";
   font-size: 22px;
@@ -74,3 +82,4 @@ footer {
   margin: auto auto auto;
   padding: 20px;
 }
+/* this is the footer*/
